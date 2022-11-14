@@ -1,0 +1,11 @@
+.griglia-cont {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100vh;
+}
+
+.grid-cell {
+    border: 1px solid black;
+    padding: 2rem;
+    aspect-ratio: 1/1;
+}
